@@ -1,12 +1,17 @@
 # misterP
 ---
 ## Multilevel Regression and Poststratification - Public Opinion
-fasdf 
+### Should employers be allowed to decline coverage of abortions in insurance plans? (Support/Oppose)
+Code in pyro and numpyro following the case study of https://bookdown.org/jl5522/MRP-case-studies.
+The main notebook with the Probabilsitic model is model.ipynb.
+Data folder contains all preprocessed data used in the project.
+Cache folder contains saved posteriors, images and models to avoid unnecessary computations.
 ---
 ## Notes: 
 ---
-* To get the PostStratification data, consider **Data/poststrat_df.csv**
-* To get the Raw Survey data, consider **Data/cces_all_clean.csv**
+* Poststratification data **Data/poststrat_df.csv**
+* Survey data **Data/cces_all_clean.csv**
+* US states data **Data/states.xlsx**
 
 ---
 ## References:
