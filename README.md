@@ -12,9 +12,9 @@ Cache folder contains saved posteriors, images and models to avoid unnecessary c
 ---
 ## Notes: 
 ---
-* Poststratification data **Data/poststrat_df.csv**
-* Survey data **Data/cces_all_clean.csv**
-* US states data **Data/states.xlsx**
+* **Data/poststrat_df.csv** Poststratification data 
+* **Data/cces_all_clean.csv** Survey data
+* **Data/states.xlsx** US states data
 
 ---
 ## References:
@@ -22,6 +22,7 @@ Cache folder contains saved posteriors, images and models to avoid unnecessary c
   - Data Processing code: 
     >- Juan Lopez-Martin, Justin H. Phillips, and Andrew Gelman, Multilevel Regression and Poststratification Case Studies, 
       https://bookdown.org/jl5522/MRP-case-studies/downloading-and-processing-data.html
+      https://github.com/JuanLopezMartin/MRPCaseStudy
 
   - Raw Survey data (CCES Data):
     >- https://dataverse.harvard.edu/api/access/datafile/3588803?format=original&gbrecs=true
